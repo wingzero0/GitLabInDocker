@@ -1,0 +1,5 @@
+/data
+/config/
+!/config/gitlab.rb
+!/config/gitlab.rb.example
+/logs/
